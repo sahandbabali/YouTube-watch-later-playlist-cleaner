@@ -1,0 +1,6 @@
+- Open watch later playlist in your browser
+- Change number of videos you want to remove with "vidcount" variable
+- Run the program
+- Select two points with keys "a" and "b"
+- Press key "s" to start removing videos
+- Press Ctrl + "c" to stop the program
