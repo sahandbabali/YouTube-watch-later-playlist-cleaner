@@ -4,7 +4,7 @@ var keypress = require("keypress");
 //points
 var pointa = {};
 var pointb = {};
-const vidcount = 3;
+const vidcount = 500;
 
 function sleep(milliseconds) {
   const date = Date.now();
